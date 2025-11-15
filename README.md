@@ -1,16 +1,23 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Zomato-Clone
->>>>>>> 302ca5cafa442438a532248f32db1c3953a13f9e
+
+A React + Vite based Zomato frontend clone.  
+This project is built for practice using modern frontend technologies.
+
+## 🚀 Tech Used
+- React
+- Vite
+- JavaScript
+- CSS
+- Responsive UI
+
+## 📌 Features
+- Modern UI similar to Zomato
+- Fast loading with Vite
+- Component-based architecture
+- Clean folder structure
+
+---
+
+## 📂 Getting Started
+
+### Install dependencies
